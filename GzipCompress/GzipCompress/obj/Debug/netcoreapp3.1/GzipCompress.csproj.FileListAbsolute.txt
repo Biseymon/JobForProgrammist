@@ -1,0 +1,14 @@
+D:\Project\C# Project\GzipCompress\GzipCompress\bin\Debug\netcoreapp3.1\GzipCompress.exe
+D:\Project\C# Project\GzipCompress\GzipCompress\bin\Debug\netcoreapp3.1\GzipCompress.deps.json
+D:\Project\C# Project\GzipCompress\GzipCompress\bin\Debug\netcoreapp3.1\GzipCompress.runtimeconfig.json
+D:\Project\C# Project\GzipCompress\GzipCompress\bin\Debug\netcoreapp3.1\GzipCompress.runtimeconfig.dev.json
+D:\Project\C# Project\GzipCompress\GzipCompress\bin\Debug\netcoreapp3.1\GzipCompress.dll
+D:\Project\C# Project\GzipCompress\GzipCompress\bin\Debug\netcoreapp3.1\GzipCompress.pdb
+D:\Project\C# Project\GzipCompress\GzipCompress\obj\Debug\netcoreapp3.1\GzipCompress.csproj.AssemblyReference.cache
+D:\Project\C# Project\GzipCompress\GzipCompress\obj\Debug\netcoreapp3.1\GzipCompress.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\C# Project\GzipCompress\GzipCompress\obj\Debug\netcoreapp3.1\GzipCompress.AssemblyInfoInputs.cache
+D:\Project\C# Project\GzipCompress\GzipCompress\obj\Debug\netcoreapp3.1\GzipCompress.AssemblyInfo.cs
+D:\Project\C# Project\GzipCompress\GzipCompress\obj\Debug\netcoreapp3.1\GzipCompress.csproj.CoreCompileInputs.cache
+D:\Project\C# Project\GzipCompress\GzipCompress\obj\Debug\netcoreapp3.1\GzipCompress.dll
+D:\Project\C# Project\GzipCompress\GzipCompress\obj\Debug\netcoreapp3.1\GzipCompress.pdb
+D:\Project\C# Project\GzipCompress\GzipCompress\obj\Debug\netcoreapp3.1\GzipCompress.genruntimeconfig.cache

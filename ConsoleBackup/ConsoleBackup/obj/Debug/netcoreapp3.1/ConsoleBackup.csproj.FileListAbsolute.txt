@@ -1,0 +1,28 @@
+C:\Users\bikin\source\repos\ConsoleBackup\ConsoleBackup\bin\Debug\netcoreapp3.1\ConsoleBackup.exe
+C:\Users\bikin\source\repos\ConsoleBackup\ConsoleBackup\bin\Debug\netcoreapp3.1\ConsoleBackup.deps.json
+C:\Users\bikin\source\repos\ConsoleBackup\ConsoleBackup\bin\Debug\netcoreapp3.1\ConsoleBackup.runtimeconfig.json
+C:\Users\bikin\source\repos\ConsoleBackup\ConsoleBackup\bin\Debug\netcoreapp3.1\ConsoleBackup.runtimeconfig.dev.json
+C:\Users\bikin\source\repos\ConsoleBackup\ConsoleBackup\bin\Debug\netcoreapp3.1\ConsoleBackup.dll
+C:\Users\bikin\source\repos\ConsoleBackup\ConsoleBackup\bin\Debug\netcoreapp3.1\ConsoleBackup.pdb
+C:\Users\bikin\source\repos\ConsoleBackup\ConsoleBackup\obj\Debug\netcoreapp3.1\ConsoleBackup.csproj.AssemblyReference.cache
+C:\Users\bikin\source\repos\ConsoleBackup\ConsoleBackup\obj\Debug\netcoreapp3.1\ConsoleBackup.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bikin\source\repos\ConsoleBackup\ConsoleBackup\obj\Debug\netcoreapp3.1\ConsoleBackup.AssemblyInfoInputs.cache
+C:\Users\bikin\source\repos\ConsoleBackup\ConsoleBackup\obj\Debug\netcoreapp3.1\ConsoleBackup.AssemblyInfo.cs
+C:\Users\bikin\source\repos\ConsoleBackup\ConsoleBackup\obj\Debug\netcoreapp3.1\ConsoleBackup.csproj.CoreCompileInputs.cache
+C:\Users\bikin\source\repos\ConsoleBackup\ConsoleBackup\obj\Debug\netcoreapp3.1\ConsoleBackup.dll
+C:\Users\bikin\source\repos\ConsoleBackup\ConsoleBackup\obj\Debug\netcoreapp3.1\ConsoleBackup.pdb
+C:\Users\bikin\source\repos\ConsoleBackup\ConsoleBackup\obj\Debug\netcoreapp3.1\ConsoleBackup.genruntimeconfig.cache
+D:\Project\C# Project\ConsoleBackup\ConsoleBackup\bin\Debug\netcoreapp3.1\ConsoleBackup.exe
+D:\Project\C# Project\ConsoleBackup\ConsoleBackup\bin\Debug\netcoreapp3.1\ConsoleBackup.deps.json
+D:\Project\C# Project\ConsoleBackup\ConsoleBackup\bin\Debug\netcoreapp3.1\ConsoleBackup.runtimeconfig.json
+D:\Project\C# Project\ConsoleBackup\ConsoleBackup\bin\Debug\netcoreapp3.1\ConsoleBackup.runtimeconfig.dev.json
+D:\Project\C# Project\ConsoleBackup\ConsoleBackup\bin\Debug\netcoreapp3.1\ConsoleBackup.dll
+D:\Project\C# Project\ConsoleBackup\ConsoleBackup\bin\Debug\netcoreapp3.1\ConsoleBackup.pdb
+D:\Project\C# Project\ConsoleBackup\ConsoleBackup\obj\Debug\netcoreapp3.1\ConsoleBackup.csproj.AssemblyReference.cache
+D:\Project\C# Project\ConsoleBackup\ConsoleBackup\obj\Debug\netcoreapp3.1\ConsoleBackup.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\C# Project\ConsoleBackup\ConsoleBackup\obj\Debug\netcoreapp3.1\ConsoleBackup.AssemblyInfoInputs.cache
+D:\Project\C# Project\ConsoleBackup\ConsoleBackup\obj\Debug\netcoreapp3.1\ConsoleBackup.AssemblyInfo.cs
+D:\Project\C# Project\ConsoleBackup\ConsoleBackup\obj\Debug\netcoreapp3.1\ConsoleBackup.csproj.CoreCompileInputs.cache
+D:\Project\C# Project\ConsoleBackup\ConsoleBackup\obj\Debug\netcoreapp3.1\ConsoleBackup.dll
+D:\Project\C# Project\ConsoleBackup\ConsoleBackup\obj\Debug\netcoreapp3.1\ConsoleBackup.pdb
+D:\Project\C# Project\ConsoleBackup\ConsoleBackup\obj\Debug\netcoreapp3.1\ConsoleBackup.genruntimeconfig.cache

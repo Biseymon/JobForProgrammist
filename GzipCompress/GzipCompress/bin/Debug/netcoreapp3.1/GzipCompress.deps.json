@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "GzipCompress/1.0.0": {
+        "runtime": {
+          "GzipCompress.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GzipCompress/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
